@@ -8,7 +8,7 @@ To play:
 
 1. Clone repo and open it in your terminal.
 2. type "make all" to compile the game
-3. type "./wheel", and then the game will prompt the user the length of the words that they want to guess. 
+3. type "./wheel dictionary.txt", and then the game will prompt the user the length of the words that they want to guess. 
 *** NOTE: You can choose a word length from 2-24 or 28-29.
 4. the game will then prompt the user the number of guesses they would like to have in the game. 
 *** NOTE: Due to the size of the dictionary, the likeliness of winning a game with less than 26 guesses (the entire alphabet, A-Z) is extremely low.
