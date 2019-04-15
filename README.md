@@ -1,4 +1,4 @@
-# Wheel-of-Misfortune
+# Wheel of Misfortune
 
 This assignment showcases dynamic memory allocation and structs.
 
