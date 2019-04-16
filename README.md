@@ -1,6 +1,6 @@
 # Wheel of Misfortune
 
-This assignment showcases dynamic memory allocation and structs.
+This game showcases dynamic memory allocation and structs.
 
 Wheel of Misfortune is a single player game in which the user must guess the word chosen by the computer in dictionary.txt. The twist is that the computer changes the word that is chosen to maximize the chance of winning. It does this by iteratively selecting a maximum subset of words within the set of guessable words that ensures the player's guess is the least effective.
 
